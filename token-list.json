@@ -16,6 +16,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       }
+      {
+      "chainId": 137,
+      "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
+      "name": "ADDY",
+      "symbol": "ADDY",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/adamant_32.png"
+    },      
+      
     ],
     "version": {
       "major": 0,
