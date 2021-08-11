@@ -627,7 +627,7 @@
             "chainId": 1,
       "address": "0x0187012f9c15b51afeab3e255a51064ffd5a46a1",
       "name": "WDAI",
-      "symbol": "DEFI",
+      "symbol": "WDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
         
